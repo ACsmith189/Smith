@@ -3,14 +3,29 @@ html, body {
   width: 100%;
 }
 
-h2{
-  color: #0c2340
+h2 {
+  color: #0c2340; /* samford blue */
 }
 
-h1{
-  color: #bd1f2d
+h1 {
+  color: #bd1f2d;
 }
 
-h3{
+h3 {
   color: #64CCC9
+}
+
+label {
+  font-weight: bold;
+  display:inline-block;
+  width:100px;
+  text-align:right;
+}
+
+input {
+  margin-bottom: 12px;
+}
+
+form {
+  width:290px;
 }
